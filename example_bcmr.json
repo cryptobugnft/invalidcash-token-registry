@@ -1,8 +1,8 @@
 {
     "version": {
         "major": 0,
-        "minor": 1,
-        "patch": 1
+        "minor": 2,
+        "patch": 0
       },
     "latestRevision": "2023-01-26T18:51:35.115Z",
     "registryIdentity": {
@@ -26,6 +26,22 @@
         },
         "uris": {
           "icon": "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/TEST.svg"
+        }
+      }],
+        
+      "1ccda51d041dc0876ae174104e43e095a5016975deb27219e5ec5b94f07f5bdc": [{
+        "name": "Hero Token",
+        "description": "Token for All Heroes",
+        "time": {
+          "begin": "2023-02-01T18:51:35.115Z"
+        },
+        "token": {
+          "category": "1ccda51d041dc0876ae174104e43e095a5016975deb27219e5ec5b94f07f5bdc",
+          "symbol": "HERO",
+          "decimals": 1
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/iamclrscr/example_bcmr/main/HeroToken.png"
         }
       }]
     }
